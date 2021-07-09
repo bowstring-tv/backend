@@ -1,2 +1,18 @@
-###
+### CATEGORIES ###
 GET http://localhost:3000/api/categories
+
+###
+
+GET http://localhost:3000/api/categories/1
+
+### PORTFOLIOS ###
+
+GET http://localhost:3000/api/portfolios
+
+###
+
+GET http://localhost:3000/api/portfolios/1
+
+###
+
+GET http://localhost:3000/api/categories/1/portfolios

@@ -1,0 +1,160 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Commercials",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        {
+            "id": 2,
+            "name": "Social Media & Influencer",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        {
+            "id": 3,
+            "name": "Branded Content",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        {
+            "id": 4,
+            "name": "Experiential Activations",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        {
+            "id": 5,
+            "name": "Live Stream",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        {
+            "id": 6,
+            "name": "Animation",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        {
+            "id": 7,
+            "name": "CGI",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        {
+            "id": 8,
+            "name": "Photography",
+            "active": 1,
+            "description1": "Lorem ipsum dolor sit amet",
+            "description2": "Lorem ipsum dolor sit amet",
+            "description3": "Lorem ipsum dolor sit amet",
+            "description4": "Lorem ipsum dolor sit amet",
+            "img_url": "https://cdn.com/c_1.png",
+            "img_alt": "commercials",
+            "tags": [],
+            "meta_title": "",
+            "meta_description": ""
+        }
+    ],
+    "portfolios": [
+        {
+            "id": 1,
+            "name": "Comcast",
+            "video_url": "https://vimeo.com/p_1",
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
+        },
+        {
+            "id": 2,
+            "name": "Xfinity",
+            "video_url": "https://vimeo.com/p_1",
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
+        },
+        {
+            "id": 3,
+            "name": "Happy Valley",
+            "video_url": "https://vimeo.com/p_1",
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
+        },
+        {
+            "id": 4,
+            "name": "NetApp",
+            "video_url": "https://vimeo.com/p_1",
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
+        },
+        {
+            "id": 5,
+            "name": "AAMCO",
+            "video_url": "https://vimeo.com/p_1",
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
+        },
+        {
+            "id": 6,
+            "name": "Saint Joseph's University",
+            "video_url": "https://vimeo.com/p_1",
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
+        }
+    ]
+}
