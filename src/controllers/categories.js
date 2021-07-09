@@ -4,6 +4,7 @@ const categories = {
     getCategory: (req, res) => {
         res.send("Listado de la categoria seleccionada");
     },
+    
     getCategoryItem: (req, res) => {
         res.send("Item de categoria");
     },
