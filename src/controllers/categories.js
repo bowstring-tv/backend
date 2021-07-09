@@ -6,6 +6,7 @@ const categories = {
     },
 
     getCategory: (req, res) => {
+        let id = req.params.id;
         res.status(200).json({ success: true, data: db.categories.filter(category => category.id == id) });
     },
 
