@@ -118,37 +118,43 @@
             "id": 1,
             "name": "Comcast",
             "video_url": "https://vimeo.com/p_1",
-            "img_url": "https://cdn.com/p_1.png"
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
         },
         {
             "id": 2,
             "name": "Xfinity",
             "video_url": "https://vimeo.com/p_1",
-            "img_url": "https://cdn.com/p_1.png"
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
         },
         {
             "id": 3,
             "name": "Happy Valley",
             "video_url": "https://vimeo.com/p_1",
-            "img_url": "https://cdn.com/p_1.png"
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
         },
         {
             "id": 4,
             "name": "NetApp",
             "video_url": "https://vimeo.com/p_1",
-            "img_url": "https://cdn.com/p_1.png"
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
         },
         {
             "id": 5,
             "name": "AAMCO",
             "video_url": "https://vimeo.com/p_1",
-            "img_url": "https://cdn.com/p_1.png"
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
         },
         {
             "id": 6,
             "name": "Saint Joseph's University",
             "video_url": "https://vimeo.com/p_1",
-            "img_url": "https://cdn.com/p_1.png"
+            "img_url": "https://cdn.com/p_1.png",
+            "categoryId": 1
         }
     ]
 }
