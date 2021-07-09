@@ -1,8 +1,12 @@
-
+let db = require('../../db.json');
 
 const categories = {
+    getAll: (req, res) => {
+        res.status(200).json({ success: true, data: db.categories });
+    },
     getCategory: (req, res) => {
-        res.send("Listado de la categoria seleccionada");
+        let id = req.params.id;
+        res.status(200).json({ success: true, data: db.categories.filter(category => category.id == id) });
     },
     getCategoryItem: (req, res) => {
         res.send("Item de categoria");

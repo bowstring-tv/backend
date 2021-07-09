@@ -2,7 +2,9 @@ const { Router } = require('express');
 const router = Router();
 const categoriesController = require('../controllers/categories');
 
-router.get('/', categoriesController.getCategory);
+router.get('/', categoriesController.getAll);
+
+router.get('/:id', categoriesController.getCategory)
 
 router.get('/item-category', categoriesController.getCategoryItem);
 
